@@ -14,3 +14,5 @@ public class VariablesExample {
         System.out.println("Is Active: " + isActive);
     }
 }
+
+modification done to chek wheather it deploys or not without build now
